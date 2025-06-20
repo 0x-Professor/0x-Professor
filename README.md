@@ -21,7 +21,7 @@
 
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/terminal.gif" width="30"/> About Me
 
-<img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="focused developer at work" width="200"/>
 
 - 🔥 **Cybersecurity Artisan** & **Red Teamer**  
 - 🔬 Researching **AI-assisted Exploits**  
@@ -53,11 +53,11 @@
 ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-757575?style=flat-square&logo=OWASP&logoColor=white)
 
 ### Interests
-- 🚀 Offensive Security & Red Team Simulation
-- 🧠 Payload Automation using AI
-- 🔗 Blockchain Security & Contract Testing
-- 🕵️ Bug Bounty & Vulnerability Discovery
-- 🧩 CTF Challenges & Exploit Development
+- 🚀 Offensive Security & Red Team Simulation  
+- 🧠 Payload Automation using AI  
+- 🔗 Blockchain Security & Contract Testing  
+- 🕵️ Bug Bounty & Vulnerability Discovery  
+- 🧩 CTF Challenges & Exploit Development  
 
 ---
 
@@ -93,20 +93,15 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
+---
+
+## 👨‍💻 At Work
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0x-Professor/0x-Professor/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="person working at desk" width="400"/>
 </p>
 
 ---
-
-## 👨‍💻 Hacker Mode On
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="hacker animation"/>
-</p>
-
 ---
 
 > “I don’t `alert('XSS')` — I rewrite DOM realities. I don’t just break systems — I make them confess.” 🔥
