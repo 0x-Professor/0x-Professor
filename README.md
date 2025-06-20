@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Muhammad Mazhar Saeed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
-<h3 align="center">Also known as <strong>0x-Professor</strong> 🧠 | Red Teamer 🛡️ | Blockchain Dev ⛓️ | Pentester 🕷️ | AI Tinkerer 🤖</h3>
+<h3 align="center">Also known as <strong>0x-Professor</strong> 🧠 | Red Teamer 🛡️ | Blockchain Dev ⛓️ | Pentester 🕷️ | AI Whisperer 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Expert+%F0%9F%95%91%EF%B8%8F;Red+Team+Automation+%F0%9F%9A%80;Blockchain+%26+Smart+Contract+Engineer+%F0%9F%94%93;AI+Payload+Generator+%F0%9F%A7%A0;XSS+%2F+SQLi+%2F+RCE+Specialist+%F0%9F%A4%96;Web+and+API+Exploitation+Master+%F0%9F%91%BD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast+%F0%9F%95%91%EF%B8%8F;Red+Team+Automation+%F0%9F%9A%80;Blockchain+%26+Smart+Contract+Engineer+%F0%9F%94%93;AI+Payload+Generator+%F0%9F%A7%A0;XSS+%2F+SQLi+%2F+RCE+%F0%9F%A4%96;Web+and+API+Exploitation+%F0%9F%91%BD" />
 </p>
 
 ---
@@ -21,14 +21,14 @@
 
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/terminal.gif" width="30"/> About Me
 
-<img align="right" src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/hacker-animated.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300"/>
 
 - 🔥 **Cybersecurity Artisan** & **Red Teamer**  
 - 🔬 Researching **AI-assisted Exploits**  
 - 🔐 Passionate about **Web Application Security & Logic Flaws**  
-- 🧠 Creator of **XSS Payload Generator (ML-Based)**  
+- 🧠 Creating **XSS Payload Generator (ML-Based)**  
 - 🧱 Building a **Lightweight EVM Simulator** from scratch  
-- 🧪 Exploring secure **DApps** with IPFS + Ethereum  
+- 🧪 Exploring secure **DApps**   
 - 💻 Backend Architect using **Django** & **REST**  
 - 🎯 CTF Addict & Payload Innovator  
 - ✍️ Love bending protocols, evading WAFs, and crafting undetectables.
@@ -57,7 +57,7 @@
 - 🧠 Payload Automation using AI
 - 🔗 Blockchain Security & Contract Testing
 - 🕵️ Bug Bounty & Vulnerability Discovery
-- ⚙️ Reverse Engineering & MASM
+- 🧩 CTF Challenges & Exploit Development
 
 ---
 
@@ -96,7 +96,15 @@
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0x-Professor/0x-Professor/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/0x-Professor/0x-Professor/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+</p>
+
+---
+
+## 👨‍💻 Hacker Mode On
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="400" alt="hacker animation"/>
 </p>
 
 ---
