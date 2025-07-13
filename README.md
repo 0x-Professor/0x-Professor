@@ -51,6 +51,7 @@
 ![Truffle](https://img.shields.io/badge/Truffle-5E4666?style=flat-square&logo=truffle&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-ff6600?style=flat-square&logo=burp-suite&logoColor=black)
 ![ZAP](https://img.shields.io/badge/OWASP%20ZAP-757575?style=flat-square&logo=OWASP&logoColor=white)
+[![MCP Dev](https://badge.mcpx.dev?type=dev 'MCP Dev')]
 
 ### Interests
 - 🚀 Offensive Security & Red Team Simulation  
