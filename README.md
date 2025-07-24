@@ -62,17 +62,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🧠 [XSS-ML-Generator](https://github.com/0x-Professor/XSS-ML-Generator) | AI-powered generator that crafts bypass-capable XSS payloads. |
-| 🔐 [Secure-GDrive-v2](https://github.com/0x-Professor/Secure-GDrive-v2) | Secure file sharing using IPFS + Ethereum + AES. |
-| 🧬 [EVM-to-RISC-V Transpiler](https://github.com/0x-Professor/transpiler) | Convert EVM bytecode to RISC-V for low-level analysis. |
-| 📊 [Graph Visualizer Qt](https://github.com/0x-Professor/Graph-Traversal-Visualizer) | Visualize BFS/DFS/Dijkstra with stunning C++/Qt graphics. |
-| 🧨 [AI-Powered CTF Solver](https://github.com/0x-Professor/CTF-AI-Solver) | Solve capture-the-flag challenges using AI logic trees. |
-
----
 
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/connect.gif" width="30"/> Connect with Me
 
