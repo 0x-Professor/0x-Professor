@@ -12,9 +12,6 @@
   <a href="https://github.com/0x-Professor">
     <img src="https://img.shields.io/github/followers/0x-Professor?label=Follow&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/professorXSS">
-    <img src="https://img.shields.io/twitter/follow/professorXSS?style=for-the-badge&logo=twitter&color=1da1f2" />
-  </a>
 </p>
 
 ---
