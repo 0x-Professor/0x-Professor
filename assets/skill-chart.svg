@@ -1,0 +1,111 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillBars" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#79C0FF;stop-opacity:0.8"/>
+    </linearGradient>
+    
+    <linearGradient id="redTeamBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FF8E88;stop-opacity:0.8"/>
+    </linearGradient>
+    
+    <linearGradient id="blockchainBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:0.8"/>
+    </linearGradient>
+    
+    <linearGradient id="aiBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#A78BFA;stop-opacity:0.8"/>
+    </linearGradient>
+    
+    <linearGradient id="webDevBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#34D399;stop-opacity:0.8"/>
+    </linearGradient>
+    
+    <filter id="skillGlow">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="200" rx="10" fill="#0D1117" opacity="0.95"/>
+  
+  <!-- Title -->
+  <text x="200" y="25" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" font-weight="bold" fill="#58A6FF">
+    🚀 Skill Levels
+  </text>
+  
+  <!-- Red Team/Cybersecurity - 95% -->
+  <text x="20" y="55" font-family="'Segoe UI', sans-serif" font-size="12" fill="#C9D1D9">Red Team</text>
+  <rect x="100" y="45" width="280" height="8" rx="4" fill="#21262D"/>
+  <rect x="100" y="45" width="0" height="8" rx="4" fill="url(#redTeamBar)" filter="url(#skillGlow)">
+    <animate attributeName="width" values="0;266" dur="3s" begin="0.5s" fill="freeze"/>
+  </rect>
+  <text x="385" y="52" font-family="'Fira Code', monospace" font-size="10" fill="#FF6B6B" opacity="0">
+    95%
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3s" fill="freeze"/>
+  </text>
+  
+  <!-- Blockchain Development - 90% -->
+  <text x="20" y="75" font-family="'Segoe UI', sans-serif" font-size="12" fill="#C9D1D9">Blockchain</text>
+  <rect x="100" y="65" width="280" height="8" rx="4" fill="#21262D"/>
+  <rect x="100" y="65" width="0" height="8" rx="4" fill="url(#blockchainBar)" filter="url(#skillGlow)">
+    <animate attributeName="width" values="0;252" dur="3s" begin="1s" fill="freeze"/>
+  </rect>
+  <text x="385" y="72" font-family="'Fira Code', monospace" font-size="10" fill="#F59E0B" opacity="0">
+    90%
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.5s" fill="freeze"/>
+  </text>
+  
+  <!-- AI/ML Development - 85% -->
+  <text x="20" y="95" font-family="'Segoe UI', sans-serif" font-size="12" fill="#C9D1D9">AI/ML</text>
+  <rect x="100" y="85" width="280" height="8" rx="4" fill="#21262D"/>
+  <rect x="100" y="85" width="0" height="8" rx="4" fill="url(#aiBar)" filter="url(#skillGlow)">
+    <animate attributeName="width" values="0;238" dur="3s" begin="1.5s" fill="freeze"/>
+  </rect>
+  <text x="385" y="92" font-family="'Fira Code', monospace" font-size="10" fill="#7C3AED" opacity="0">
+    85%
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4s" fill="freeze"/>
+  </text>
+  
+  <!-- Web Development - 88% -->
+  <text x="20" y="115" font-family="'Segoe UI', sans-serif" font-size="12" fill="#C9D1D9">Web Dev</text>
+  <rect x="100" y="105" width="280" height="8" rx="4" fill="#21262D"/>
+  <rect x="100" y="105" width="0" height="8" rx="4" fill="url(#webDevBar)" filter="url(#skillGlow)">
+    <animate attributeName="width" values="0;246" dur="3s" begin="2s" fill="freeze"/>
+  </rect>
+  <text x="385" y="112" font-family="'Fira Code', monospace" font-size="10" fill="#10B981" opacity="0">
+    88%
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="4.5s" fill="freeze"/>
+  </text>
+  
+  <!-- Systems Programming - 75% -->
+  <text x="20" y="135" font-family="'Segoe UI', sans-serif" font-size="12" fill="#C9D1D9">Systems</text>
+  <rect x="100" y="125" width="280" height="8" rx="4" fill="#21262D"/>
+  <rect x="100" y="125" width="0" height="8" rx="4" fill="url(#skillBars)" filter="url(#skillGlow)">
+    <animate attributeName="width" values="0;210" dur="3s" begin="2.5s" fill="freeze"/>
+  </rect>
+  <text x="385" y="132" font-family="'Fira Code', monospace" font-size="10" fill="#58A6FF" opacity="0">
+    75%
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="5s" fill="freeze"/>
+  </text>
+  
+  <!-- Overall stats -->
+  <text x="200" y="165" text-anchor="middle" font-family="'Fira Code', monospace" font-size="12" fill="#79C0FF" opacity="0">
+    🎯 Average Expertise: 86.6%
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="5.5s" fill="freeze"/>
+  </text>
+  
+  <!-- Animated border -->
+  <rect x="2" y="2" width="396" height="196" rx="10" fill="none" stroke="#58A6FF" stroke-width="1" opacity="0.5">
+    <animate attributeName="stroke-width" values="1;2;1" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

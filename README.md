@@ -55,6 +55,10 @@
 
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/skills.svg" width="30"/> Tech Arsenal
 
+<div align="center">
+  <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/skill-chart.svg" alt="Skill Chart" width="80%"/>
+</div>
+
 ### 💻 Languages
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -193,6 +197,10 @@
 </div>
 
 ## 👨‍💻 At Work
+
+<div align="center">
+  <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/code-terminal.svg" alt="Animated Code Terminal" width="100%"/>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="person working at desk" width="400"/>
