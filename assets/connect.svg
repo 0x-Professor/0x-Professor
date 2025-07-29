@@ -1,0 +1,72 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="connectGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1">
+        <animate attributeName="stop-color" values="#58A6FF;#61DAFB;#F7931E;#58A6FF" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#0366D6;stop-opacity:0.2">
+        <animate attributeName="stop-color" values="#0366D6;#00D4AA;#FF6B6B;#0366D6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </radialGradient>
+    <filter id="connectionGlow">
+      <feGaussianBlur stdDeviation="1" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Central hub -->
+  <circle cx="15" cy="15" r="4" fill="url(#connectGradient)" filter="url(#connectionGlow)">
+    <animate attributeName="r" values="4;5;4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Connection nodes -->
+  <circle cx="6" cy="6" r="2" fill="#58A6FF" opacity="0.8">
+    <animate attributeName="r" values="2;2.5;2" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="24" cy="6" r="2" fill="#61DAFB" opacity="0.8">
+    <animate attributeName="r" values="2;2.5;2" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="6" cy="24" r="2" fill="#F7931E" opacity="0.8">
+    <animate attributeName="r" values="2;2.5;2" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="24" cy="24" r="2" fill="#7C3AED" opacity="0.8">
+    <animate attributeName="r" values="2;2.5;2" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Animated connection lines -->
+  <line x1="15" y1="15" x2="6" y2="6" stroke="#58A6FF" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1;2;1" dur="3s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="15" y1="15" x2="24" y2="6" stroke="#61DAFB" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1;2;1" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="15" y1="15" x2="6" y2="24" stroke="#F7931E" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1;2;1" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="15" y1="15" x2="24" y2="24" stroke="#7C3AED" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="1;2;1" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Pulsing ring -->
+  <circle cx="15" cy="15" r="8" fill="none" stroke="url(#connectGradient)" stroke-width="0.5" opacity="0">
+    <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
