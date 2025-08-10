@@ -134,3 +134,8 @@
 ---
 
 > "I don't just `alert('XSS')` — I architect secure systems and forge the future of Web3. I don't just break protocols — I build better ones." 🔥⛓️
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Hacking%20Responsibly&fontSize=24&fontColor=fff&animation=twinkling" />
+</p>
+
