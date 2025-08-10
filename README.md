@@ -42,27 +42,29 @@
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/skills.gif" width="30"/> Tech Arsenal
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F6C915?style=flat-square&logo=ethereum&logoColor=black)
-![Scaffold-ETH](https://img.shields.io/badge/Scaffold--ETH-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=black)
-![Truffle](https://img.shields.io/badge/Truffle-5E4666?style=flat-square&logo=truffle&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-ff6600?style=flat-square&logo=burp-suite&logoColor=black)
-![ZAP](https://img.shields.io/badge/OWASP%20ZAP-757575?style=flat-square&logo=OWASP&logoColor=white)
-![MCP Dev](https://badge.mcpx.dev?type=dev 'MCP Dev')
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=ethereum&logoColor=black)
+![Scaffold-ETH](https://img.shields.io/badge/Scaffold--ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-5E4666?style=for-the-badge&logo=truffle&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-757575?style=for-the-badge&logo=OWASP&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20Server-4A90E2?style=for-the-badge&logo=server&logoColor=white)
 
 ### Interests
 - 🚀 Offensive Security & Red Team Simulation  
