@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=0x-Professor&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20•%20Blockchain%20•%20AI%20Security&descAlignY=55&descAlign=50" />
+</p>
+
 <h1 align="center">Hi, I'm Muhammad Mazhar Saeed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 <h3 align="center">Also known as <strong>0x-Professor</strong> 🧠 | Red Teamer 🛡️ | Blockchain Dev ⛓️ | Pentester 🕷️ | AI Whisperer 🤖</h3>
 
