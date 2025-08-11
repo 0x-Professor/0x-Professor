@@ -113,7 +113,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x-Professor&theme=tokyonight&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Professor&layout=compact&theme=tokyonight" height="180" />
+ 
 </p>
 
 ---
