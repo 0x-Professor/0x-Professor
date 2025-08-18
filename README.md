@@ -74,30 +74,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ Cybersecurity & Research
-- **[XssPlayground](https://github.com/0x-Professor/XssPlayground)** - Interactive XSS learning environment with real-world scenarios
-- **[SecureTasker](https://github.com/0x-Professor/SecureTasker)** - Enterprise-grade secure task management with OWASP compliance
-- **[Tic-Tac-Toe CTF](https://github.com/0x-Professor/Tic-Tac-Toe)** - Web vulnerability challenge for security enthusiasts
-
-### ⛓️ Blockchain & Web3
-- **[gdrive2.0](https://github.com/0x-Professor/gdrive2.0)** - Decentralized cloud storage dApp built on Ethereum
-- **[DApp-BuyMeACoffee](https://github.com/0x-Professor/DApp-BuyMeACoffee)** - Web3 donation platform for creators
-- **[Sol2RISC-V Transpiler](https://github.com/0x-Professor/transpiler)** - Converts Solidity smart contracts to RISC-V assembly
-
-### 🤖 AI & Automation
-- **[MCPServers](https://github.com/0x-Professor/MCPServers)** - MCP server infrastructure for blockchain, AI & security automation
-- **[AI-Powered Learning PWA](https://github.com/0x-Professor/AI-Powered-Personalized-Learning-PWA)** - Personalized learning with AI agents
-- **[LangForge Docs](https://github.com/0x-Professor/langforge-docs)** - Comprehensive LangChain documentation platform
-
-### 🌐 Web Development
-- **[Portfolio Website](https://github.com/0x-Professor/0x-Professor.github.io)** - Personal portfolio built with modern web technologies
-- **[3D Table Tennis](https://github.com/0x-Professor/3d-Table-tennis)** - Interactive 3D game built with TypeScript
-
----
-
-
 
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/connect.gif" width="30"/> Connect with Me
 
