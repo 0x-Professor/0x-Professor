@@ -16,25 +16,6 @@
 
 ---
 
-## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/terminal.gif" width="30"/> About Me
-
-<img align="right" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="focused developer at work" width="200"/>
-
-- 🔥 **Cybersecurity Artisan** & **Red Teamer**  
-- 🔬 Researching **AI-assisted Exploits** & **MCP Server Development**  
-- 🔐 Passionate about **Web Application Security & Logic Flaws**  
-- 🧠 Built **XssPlayground** - Interactive XSS learning environment  
-- 🧱 Developed **Sol2RISC-V Transpiler** - Solidity to RISC-V conversion tool  
-- 🌐 Created **SecureTasker** - Enterprise-grade secure task management with OWASP compliance  
-- ⛓️ Building **gdrive2.0** - Decentralized cloud storage dApp on Ethereum  
-- 🤖 Developing **AI-Powered Learning PWA** & **LangForge Documentation Platform**  
-- 🦀 Learning **Rust** for systems programming & blockchain development  
-- 💻 Full-stack architect using **TypeScript**, **Python**, **Django** & **React**  
-- 🎯 CTF Creator & Payload Innovator - Building security challenges  
-- ✍️ Love bending protocols, evading WAFs, and crafting innovative exploits
-
----
-
 ## <img src="https://github.com/0x-Professor/0x-Professor/blob/main/assets/skills.gif" width="30"/> Tech Arsenal
 
 ### Languages
