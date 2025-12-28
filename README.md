@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0x-Professor&theme=tokyonight&show_icons=true" height="180" />
- 
+ ![0x-Professor's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x-Professor&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </p>
 
 ---
