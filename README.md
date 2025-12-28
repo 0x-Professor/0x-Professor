@@ -69,17 +69,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main GitHub stats (github-readme-stats public instance) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-Professor&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-
-  <!-- Streak (may be rate-limited; open directly to test) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-Professor&theme=tokyonight" alt="GitHub Streak" />
-
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Professor&theme=tokyonight&layout=compact&langs_count=8" alt="Top Languages" />
-
-  <!-- Profile summary (alternative card) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x-Professor&theme=tokyonight" alt="Profile Summary" />
+  <img src="./assets/stats/github_stats.svg" alt="GitHub Stats" />
+  <img src="./assets/stats/top_langs.svg" alt="Top Languages" />
+  <img src="./assets/stats/profile_summary.svg" alt="Profile Summary" />
 </p>
 ---
 
