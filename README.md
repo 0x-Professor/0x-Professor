@@ -67,11 +67,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="./assets/stats/github_stats.svg" alt="GitHub Stats" />
-  <img src="./assets/stats/top_langs.svg" alt="Top Languages" />
-  <img src="./assets/stats/profile_summary.svg" alt="Profile Summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=0x-Professor&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="My stats">
 </p>
 ---
 
